@@ -4,6 +4,8 @@ The official list of NICAR 2020 tipsheets and links: https://www.ire.org/events-
 
 The unofficial list: http://apps.machlis.com/shiny/nicar20_resources/
 
+Search #NICAR20 links: http://apps.machlis.com/shiny/nicar20/
+
 Some of my favorite tipsheets:
 - [Tracking Money in campaigns, up and down the ballot](https://www.dropbox.com/s/pttnfpyh7g44616/TrackingMoneySpentOnCandidatesUpAndDownTheBallot2020.pdf?dl=0)
 - [Data and docs for your arsenal](https://www.dropbox.com/s/nj5vm221m429kge/Data%20%26%20docs%20for%20your%20arsenal%20tipsheet%20NICAR%202020.pdf?dl=0)
